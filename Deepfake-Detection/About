@@ -1,0 +1,17 @@
+Title: Deepfake Detection: A Modern Survey on Methods and Techniques
+
+Published Journal: Journal of Xi'an University of Architecture & Technology
+
+Publieshed On: December, 2021.
+
+About: 
+
+Deepfakes are images or videos that have been modified to changes their faces or other parts of the image to change the
+subject. Usually, the faces of one person are replaced by another. This deepfake generation is done primarily via Generative
+Adversarial Networks (GANs). This makes the deepfake have certain characteristics that are unique to the generation process
+through which they can be detected. This type of modification has a great capacity for producing fraudulent media which can be
+used to cause confusion and harm. Therefore, a method for the detection of deepfakes is of the utmost urgency. As deepfake
+technology becomes more and more advanced, detection methods need to keep up. In this paper, we present a survey and review of
+the most recent deepfake detection methods in order to facilitate any further research in the domain. Each technique has been
+carefully described and their accuracy on different common deepfake datasets has been described. This should provide a starting
+point for anyone wishing to perform further research on any of these techniques or come up with one on their own.
